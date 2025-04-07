@@ -6,10 +6,6 @@
 
 
 
-✉️ **Contacto**: [tu.email@ejemplo.com](mailto:tu.email@ejemplo.com)  
-
----
-
 ## 🚀 **Tecnologías y Herramientas**
 
 ### **Lenguajes y Frameworks**
@@ -35,8 +31,8 @@
 ---
 
 ## 📫 **¡Conectemos!**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU_PERFIL/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu.email@ejemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-fernando-morales-p%EF%BF%BDrez-58283b35a/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernandomoralesperez099@gmail.com)
 
 
 <!---
