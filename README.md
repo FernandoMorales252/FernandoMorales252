@@ -1,5 +1,8 @@
-# Hola, soy Fernando 👋
+# ¡Hola Mundo! 👾 Soy [Fernando Morales]
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E90FF&width=435&lines=Desarrollador+Full+Stack;Especialista+en+.NET+y+Azure;Amante+del+Código+Limpio" alt="Texto animado" />
+</p>
 💻 Desarrollador  | C# | React | Sql  
 🌍 Sonsonate, El salvador  
 
@@ -23,11 +26,7 @@
 ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 ---
-# ¡Hola Mundo! 👾 Soy [Tu Nombre]
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E90FF&width=435&lines=Desarrollador+Full+Stack;Especialista+en+.NET+y+Azure;Amante+del+Código+Limpio" alt="Texto animado" />
-</p>
 
 ---
 
