@@ -32,7 +32,7 @@
 
 ## 📫 **¡Conectemos!**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-fernando-morales-p%EF%BF%BDrez-58283b35a/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)fernandomoralesperez099@gmail.com
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](fernandomoralesperez099@gmail.com)
 
 
 <!---
