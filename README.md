@@ -42,14 +42,6 @@
 
 ---
 
-## 📊 **Estadísticas Vivas**
-
-  
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&hide_border=true)
-
-<!-- Línea de actividad (gráfico animado) -->
-![Actividad GitHub](https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=github-compact&hide_border=true&area=true)
 
 
 
