@@ -44,7 +44,6 @@
 
 ## 📊 **Estadísticas Vivas**
 
-<div align="center">
   
 ![Estadísticas](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 ![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&hide_border=true)
@@ -52,9 +51,7 @@
 <!-- Línea de actividad (gráfico animado) -->
 ![Actividad GitHub](https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=github-compact&hide_border=true&area=true)
 
-</div>
 
----
 
 
 
@@ -71,15 +68,15 @@
 
 ## 📫 **Conectemos**
 
-<div align="center">
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-fernando-morales-p%EF%BF%BDrez-58283b35a/)
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu.email@ejemplo.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TU_USUARIO)
 
-</div>
----
+
+
 
 
 
