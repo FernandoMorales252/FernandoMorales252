@@ -7,7 +7,7 @@
 
 
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E90FF&width=435&lines=Desarrollador+Full+Stack;Especialista+en+.NET+y+Azure;Amante+del+Código+Limpio" alt="Texto animado" />
+  <img src="https://images.pexels.com/photos/574071/pexels-photo-574071.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Texto animado" />
 
 💻 Desarrollador  | C# | React | Sql  
 🌍 Sonsonate, El salvador  
