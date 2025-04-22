@@ -51,11 +51,7 @@
 <!-- Iconos flotantes -->
 
 <!-- Banderín interactivo -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=1E90FF&center=true&vCenter=true&width=500&lines=¡Bienvenido+a+mi+perfil!;Espero+que+te+gusten+mis+proyectos" alt="Banner animado" />
-  </a>
-</p>
+
 
 ---
 
