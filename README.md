@@ -5,9 +5,10 @@
   <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50"> 
  
 </p>
-
+<p align="center">
+ 
  <img src="https://images.pexels.com/photos/276452/pexels-photo-276452.jpeg?auto=compress&cs=tinysrgb&w=600" width="600" height="300">
-
+</p>
 
 💻 Desarrollador  | C# | React | Sql  
 🌍 Sonsonate, El salvador  
