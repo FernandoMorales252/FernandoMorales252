@@ -7,7 +7,6 @@
 
 
 
-  <img src="https://images.pexels.com/photos/574071/pexels-photo-574071.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Texto animado" />
 
 💻 Desarrollador  | C# | React | Sql  
 🌍 Sonsonate, El salvador  
