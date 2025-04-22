@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="50">
 </p>
 
- <img src="https://images.pexels.com/photos/276452/pexels-photo-276452.jpeg?auto=compress&cs=tinysrgb&w=600" width="400" height="100">
+ <img src="https://images.pexels.com/photos/276452/pexels-photo-276452.jpeg?auto=compress&cs=tinysrgb&w=600" width="800" height="400">
 
 
 💻 Desarrollador  | C# | React | Sql  
